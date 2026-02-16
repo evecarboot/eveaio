@@ -14,3 +14,5 @@ All-in-one desktop app for EVE Online: industry & blueprints, reactions, moon ma
 - **PI Calculator** — Production chains, colonies, system planner.
 - **Skill Farm** — Remap + queue planner, extraction schedule.
 - **Skill Plans** — Curated plans per activity, compare to ESI skills.
+
+The app stores its database/config next to the EXE (or in the same folder when run from elsewhere). If you move the EXE, keep it in a folder where it can create/write files.
