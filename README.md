@@ -1,6 +1,6 @@
 # EVEAIO
 
-All-in-one desktop app for EVE Online. Log in with EVE SSO to sync structures, extractions, skills, and mining ledger; everything else works offline with local data and optional price APIs.
+All-in-one desktop app for EVE Online. Log in with EVE SSO to sync structures, extractions, skills, and mining ledger.
 
 ## What the app does
 
