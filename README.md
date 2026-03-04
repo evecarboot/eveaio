@@ -1,7 +1,4 @@
 # EVEAIO — EVE Online All-In-One Desktop App
-
-**Version 0.37**
-
 A multi-account desktop companion for EVE Online. Log in with EVE SSO, sync your characters, and access manufacturing analysis, market tools, structure management, skill planning, and more — all from one window.
 
 ---
